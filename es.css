@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {    
+    background-color: lightseagreen;
+    color: black ;
+    width: 100%;
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly; /* eje Y*/
+    align-items: center; /* eje x*/
+  
+    
+}
+
+.logo {
+
+  
+}
+
+.logo img {
+
+    
+   
+   
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+nav ul {
+    display: flex;
+    
+}
+ul li  {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: white;
+}
+
+
+
+
+
+
+.caja {
+
+    color: white;
+    position: absolute;
+
+}
+
+.nos {
+    
+    margin-top: 150px;
+   
+}
+
+
+.fondo {
+
+    margin-top: 130px;
+    margin-left: 390px;
+    width: 1200px;
+    height: 600px;
+    background-color: lightseagreen;
+    border-radius: 30px;
+   
+ 
+}
+
+
+ .nos {
+   
+
+
+
+} 
+
+.imagen {
+    position: fixed;
+    right: 430px;
+    top: 275px;  
+
+margin-left: 600px;
+margin-top: 7px;
+margin-left: 50px;
+
+border-radius: 20px;
+    width: 550px;
+    height: 450px;
+    
+   
+
+}
+
+.text {
+
+
+
+}
+
+h1 {
+   
+    width: 300px;
+    position: absolute;
+    left:  100px;
+    top: 100px; 
+    font-size:30px;
+
+   
+
+}
+
+p {
+
+    width: 300px;
+  position: absolute;
+    left:  100px;
+    top: 220px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.boton {
+
+    position: absolute;
+
+    left: 175px;
+    top: 450px;
+    width: 150px;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+   
+}
+
+
+
+
+
+a{
+    
+  
+ text-decoration: none;
+ color: white;
+}
+
+
+.bt1 :hover {
+
+    background-color: white;
+    color: black;
+}
+
+
+

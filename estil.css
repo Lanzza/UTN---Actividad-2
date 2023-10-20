@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {    
+    background-color: lightseagreen;
+    color: black ;
+    width: 100%;
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly; /* eje Y*/
+    align-items: center; /* eje x*/
+  
+    
+}
+
+.logo {
+
+  
+}
+
+.logo img {
+
+    
+   
+   
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+nav ul {
+    display: flex;
+    
+}
+ul li  {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: white;
+}
+.PROXIMAMENTE {
+    display: flex;
+    justify-content: center;
+    margin-top: 350px;
+    font-size: 100px;
+}
